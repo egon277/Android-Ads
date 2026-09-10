@@ -1,0 +1,88 @@
+Customized
+
+
+
+# Mobile Game Ads DNS Allowlist
+#
+# Purpose: allow rewarded/interstitial ads in mobile games
+# by whitelisting major mobile in‑app ad networks.
+#
+# WARNING: This significantly reduces privacy and blocking
+# for any client using this list. Apply ONLY to phones/tablets,
+# not your whole LAN.
+
+# Resources for creating filters
+#
+# https://adguard.com/kb/general/ad-filtering/create-own-filters/
+# https://help.adblockplus.org/hc/en-us/articles/360062733293
+# https://datatracker.ietf.org/doc/html/rfc5234
+
+## Mobile Game Ads – Unity Ads
+unityads.unity3d.com
+ads-config.unityads.unity3d.com
+auction-load.unityads.unity3d.com
+kafka.unityads.unity3d.com
+postback.unityads.unity3d.com
+impact.applifier.com
+cloud.unity3d.com
+
+## Mobile Game Ads – AppLovin
+applovin.com
+d.applovin.com
+a.applovin.com
+prod.applovin.com
+prod-mediate-events.applovin.com
+
+## Mobile Game Ads – ironSource / Supersonic
+supersonicads.com
+cdn.supersonicads.com
+pixel.supersonicads.com
+api.supersonicads.com
+is.com
+isappcloud.com
+ironsrc.com
+
+## Mobile Game Ads – AdMob / Google Ads
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+securepubads.g.doubleclick.net
+admob.com
+apps.admob.com
+
+## Mobile Game Ads – Chartboost
+chartboost.com
+live.chartboost.com
+static.chartboost.com
+analytics.chartboost.com
+mediation.chartboost.com
+
+## Mobile Game Ads – Meta Audience Network
+graph.facebook.com
+connect.facebook.net
+ads.facebook.com
+creative.ak.facebook.com
+
+## Mobile Game Ads – Vungle
+vungle.com
+cds.vungle.com
+api.vungle.com
+ads.api.vungle.com
+
+## Mobile Game Ads – AdColony
+adcolony.com
+ads.adcolony.com
+events3.adcolony.com
+
+## Mobile Game Ads – Mintegral
+mintegral.com
+mintegral.net
+tracking.mintegral.net
+ads.mintegral.net
+
+## Mobile Game Ads – Tapjoy (Unity)
+tapjoy.com
+api.tapjoy.com
+cdn.tapjoy.com
+ws.tapjoyads.com
