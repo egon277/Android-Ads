@@ -12,3 +12,5 @@
 ||gravatar.com^
 ||us.hilo.com^
 ||johnbealroofingkc.com^
+||xsolla.com^
+||launchdarkly.com^
