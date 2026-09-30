@@ -10,3 +10,4 @@
 ||buygoods.com^
 ||usercentrics.eu^
 ||gravatar.com^
+||us.hilo.com^
