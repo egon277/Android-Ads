@@ -33,6 +33,7 @@ a.applovin.com
 prod.applovin.com
 prod-mediate-events.applovin.com
 ms.applovin.com
+ms.applvn.com
 
 ## Mobile Game Ads – ironSource / Supersonic
 supersonicads.com

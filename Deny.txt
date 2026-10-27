@@ -14,3 +14,4 @@
 ||johnbealroofingkc.com^
 ||xsolla.com^
 ||launchdarkly.com^
+||trustedconsumervoice.com^
