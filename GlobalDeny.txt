@@ -15,3 +15,15 @@
 ||xsolla.com^
 ||launchdarkly.com^
 ||trustedconsumervoice.com^
+||leapgames.mobi^
+||getblueshift.com^
+||memex-pa.googleapis.com^
+||prod-lt-playstoregatewayadapter-pa.googleapis.com^
+||amazon-adsystem.com^
+||jsdelivr.net^
+||coda.io^
+||amazon-adsystem.com^
+||dqrjekqkjf8zt.cloudfront.net^
+||store.enphase.com^
+||bottom.campaign.aliexpress.com^
+
